@@ -62,6 +62,8 @@
 
 [XSS零碎指南](http://www.cnblogs.com/hustskyking/p/xss-snippets.html)
 
+[Node.js安全清单](https://segmentfault.com/a/1190000003860400)
+
 ### 协议篇
 
 [深入理解HTTP协议、HTTP协议原理分析](http://blog.csdn.net/lmh12506/article/details/7794512)
