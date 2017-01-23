@@ -42,6 +42,10 @@
 
 [RESTful API 设计最佳实践](https://www.oschina.net/translate/best-practices-for-a-pragmatic-restful-api)
 
+[权限管理RBAC](http://www.cnblogs.com/shijiaqi1066/p/3793894.html)
+
+
+
 ### Git篇
 
 [Git教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
