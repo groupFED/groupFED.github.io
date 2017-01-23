@@ -44,8 +44,6 @@
 
 [权限管理RBAC](http://www.cnblogs.com/shijiaqi1066/p/3793894.html)
 
-
-
 ### Git篇
 
 [Git教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
@@ -63,6 +61,10 @@
 ### 安全
 
 [XSS零碎指南](http://www.cnblogs.com/hustskyking/p/xss-snippets.html)
+
+### 协议篇
+
+[深入理解HTTP协议、HTTP协议原理分析](http://blog.csdn.net/lmh12506/article/details/7794512)
 
 ### 综合资源
 
